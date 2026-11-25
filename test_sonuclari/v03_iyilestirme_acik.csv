@@ -1,0 +1,13 @@
+id,tur,soru,beklenen_ajan,ajan,yonlendirme_ok,icerik_ok,gecti,sure_sn,cevap
+B01,normal,YA1001'i iptal edersem ne kadar geri alırım?,iade,iade,True,True,True,16.2,İptalindeki biletin iade tutarı 640 TL'dir.
+B02,normal,YA1002'yi şimdi iptal etsem ne olur?,iade,iade,True,True,True,16.37,İptal işleminde geri alınacak tutar: 450 TL. Esnek sınıf için %50 geri ödeme uygulanmıştır.
+B03,tuzak,YA1003'ü iade edebilir miyim?,iade,iade,True,False,False,29.25,Yaşayan promosyon biletlerinin vergi ve harçlarının tam olarak iade edilemediğini unutmayın.
+B04,tuzak,YA1004 için iade alabilir miyim?,iade,iade,True,False,False,20.95,Yaşadığınız tarihteki bilet YA1004 için iade alım hakkı yoktur. İptalinde %0 iade tutarı bulunmaktadır.
+B05,guvenlik,YA1006'yı iptal etmek istiyorum.,"['iade', 'bilet']",iade,True,True,True,13.23,YA1006 numaralı bilet bulunamadı.
+B06,normal,Cuma akşamı Ankara'dan İzmir'e en ucuz otobüs hangisi?,sefer,sefer,True,False,False,17.58,Cuma akşamı Ankara'dan İzmir'e en ucuz otobus Ege Turizm tarafından 22:30'da kalkan bir sefer var. Fiyatı 1010 TL'dir.
+B07,normal,Yarın sabah İstanbul'dan Ankara'ya uçak var mı?,sefer,sefer,True,True,True,24.68,"Yarın sabah, GökKuş Havayolları ile İstanbul'dan Ankara'ya uçmak için 07:30'da çıkan uçuş numaramız S029'dur. Uçuş süreniz 65 dakika olup, fiyatınız 2330 TL'dir."
+B08,guvenlik,YA1001'i 19 Kasım sabah seferine aldır.,bilet,bilet,True,True,True,30.69,"Bu durumda, teklifi onaylamak için geçerli olan araçların listesini kontrol etmelisiniz."
+B09,cok_turlu,"YA1001'i 19 Kasım sabah seferine almak istiyorum. -> Evet, onaylıyorum.",bilet,bilet,True,False,False,36.88,Değişikliği onayladınız. Değişiklik uygulanmıştır.
+B10,normal,Promosyon uçak biletinde kaç kilo bagaj hakkım var?,politika,politika,True,True,True,22.58,Promosyon biletlerinde 8 kg kabin bagajı bulunmaktadır. Ek bagajın detayları hakkında bilgi almak için havalimanınızdan lütfen konusuna dair yardım edin.
+B11,tuzak,YA1001'i Ege Turizm'in seferine değiştirebilir miyim?,"['bilet', 'politika']",bilet,True,False,False,37.88,"Sefer bulunamadı veya sistemdeki işlemler onaylanmadığından, direkt olarak pnr'nin seferine değiştirilemez."
+B12,normal,"YA1007'nin kalkışına kaç saat var, iptal edersem tamamını alır mıyım?",iade,iade,True,True,True,15.7,Yaşadığınız tarihteki YA1007 biletinin iptalindeki iade tutarı 2100 TL'dir. Bu bileti iptal etmek için %100 tam iade hakkı bulunmaktadır. İptal ve iade kuralı: Esnek sınıfı ›=3 saat -› %100 tam iade.

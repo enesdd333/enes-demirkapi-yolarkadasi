@@ -1,0 +1,67 @@
+[
+  {
+    "pnr": "YA2001",
+    "musteri_id": "M-5",
+    "yolcu": "Ali K.",
+    "sefer_id": "S-EK01",
+    "sinif": "standart",
+    "odenen_tutar": 750,
+    "vergi_ve_harclar": 0,
+    "koltuk": 11,
+    "odeme_yontemi": "kredi_karti",
+    "durum": "aktif",
+    "degisiklik_hakki_kullanildi": false
+  },
+  {
+    "pnr": "YA2002",
+    "musteri_id": "M-5",
+    "yolcu": "Ali K.",
+    "sefer_id": "S-EK02",
+    "sinif": "promosyon",
+    "odenen_tutar": 1850,
+    "vergi_ve_harclar": 250,
+    "koltuk": 4,
+    "odeme_yontemi": "kredi_karti",
+    "durum": "aktif",
+    "degisiklik_hakki_kullanildi": false
+  },
+  {
+    "pnr": "YA2003",
+    "musteri_id": "M-5",
+    "yolcu": "Ayşe K.",
+    "sefer_id": "S-EK04",
+    "sinif": "esnek",
+    "odenen_tutar": 1850,
+    "vergi_ve_harclar": 250,
+    "koltuk": 6,
+    "odeme_yontemi": "kredi_karti",
+    "durum": "aktif",
+    "degisiklik_hakki_kullanildi": false
+  },
+  {
+    "pnr": "YA2004",
+    "musteri_id": "M-5",
+    "yolcu": "Ali K.",
+    "sefer_id": "S-EK05",
+    "sinif": "promosyon",
+    "odenen_tutar": 750,
+    "vergi_ve_harclar": 0,
+    "koltuk": 22,
+    "odeme_yontemi": "kredi_karti",
+    "durum": "aktif",
+    "degisiklik_hakki_kullanildi": true
+  },
+  {
+    "pnr": "YA2005",
+    "musteri_id": "M-5",
+    "yolcu": "Ali K.",
+    "sefer_id": "S-EK07",
+    "sinif": "standart",
+    "odenen_tutar": 750,
+    "vergi_ve_harclar": 0,
+    "koltuk": 15,
+    "odeme_yontemi": "kredi_karti",
+    "durum": "aktif",
+    "degisiklik_hakki_kullanildi": false
+  }
+]
