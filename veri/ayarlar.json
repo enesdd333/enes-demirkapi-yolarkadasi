@@ -1,0 +1,11 @@
+{
+  "simdi": "2026-11-16T10:00:00",
+  "oturum_musteri_id": "M-5",
+  "gun_dilimleri": {
+    "sabah": "05:00-11:59",
+    "öğle": "12:00-16:59",
+    "akşam": "17:00-23:59",
+    "gece": "00:00-04:59"
+  },
+  "aciklama": "Senaryo saati sabittir (16 Kasım 2026 Pazartesi 10:00). 'yarın', 'cuma' gibi göreli tarihler buna göre çözülmelidir."
+}
